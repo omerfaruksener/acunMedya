@@ -1,0 +1,28 @@
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.exe
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.deps.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.runtimeconfig.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.AssemblyInfo.cs
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\refint\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.genruntimeconfig.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Acun Medya Odev Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\ref\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.exe
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.deps.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.runtimeconfig.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\bin\Debug\net8.0\Acun Medya Odev Hafta 3.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.AssemblyInfo.cs
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\refint\Acun Medya Odev Hafta 3.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\Acun Medya Odev Hafta 3.genruntimeconfig.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Hafta 3\Acun Medya Odev Hafta 3\obj\Debug\net8.0\ref\Acun Medya Odev Hafta 3.dll
