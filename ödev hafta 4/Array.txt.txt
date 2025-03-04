@@ -1,0 +1,1 @@
+aynı türdeki birden çok öğeyi bir arada tutan ve her bir öğeye bir indeks numarasıyla ulaşılabilen bir veri yapısıdır. Diziler, verilerin sıralı bir şekilde saklanmasını sağlar ve öğelere hızlı bir şekilde erişim imkanı sunar. Bir dizinin boyutu sabittir, yani oluşturulduğunda içereceği öğe sayısı belirlenir ve bu sayı sonradan değiştirilemez.
