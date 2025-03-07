@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\bin\Debug\net8.0\ödev.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\bin\Debug\net8.0\ödev.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\bin\Debug\net8.0\ödev.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\bin\Debug\net8.0\ödev.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\bin\Debug\net8.0\ödev.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\refint\ödev.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ödev.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev hafta 5\ödev\ödev\obj\Debug\net8.0\ref\ödev.dll
