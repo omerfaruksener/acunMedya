@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\bin\Debug\net8.0\erisimBelirleyiciler.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\bin\Debug\net8.0\erisimBelirleyiciler.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\bin\Debug\net8.0\erisimBelirleyiciler.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\bin\Debug\net8.0\erisimBelirleyiciler.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\bin\Debug\net8.0\erisimBelirleyiciler.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\refint\erisimBelirleyiciler.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\erisimBelirleyiciler.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\erisimBelirleyiciler\erisimBelirleyiciler\obj\Debug\net8.0\ref\erisimBelirleyiciler.dll
