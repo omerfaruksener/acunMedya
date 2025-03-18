@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\bin\Debug\net8.0\odevHafta6.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\bin\Debug\net8.0\odevHafta6.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\bin\Debug\net8.0\odevHafta6.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\bin\Debug\net8.0\odevHafta6.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\bin\Debug\net8.0\odevHafta6.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\refint\odevHafta6.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\odevHafta6.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\ödev erişim belirleyicciler\odevHafta6\odevHafta6\obj\Debug\net8.0\ref\odevHafta6.dll
