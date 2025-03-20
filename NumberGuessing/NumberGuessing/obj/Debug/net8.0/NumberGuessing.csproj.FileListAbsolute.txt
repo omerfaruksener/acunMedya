@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\bin\Debug\net8.0\NumberGuessing.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\refint\NumberGuessing.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\NumberGuessing.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\NumberGuessing\NumberGuessing\obj\Debug\net8.0\ref\NumberGuessing.dll
