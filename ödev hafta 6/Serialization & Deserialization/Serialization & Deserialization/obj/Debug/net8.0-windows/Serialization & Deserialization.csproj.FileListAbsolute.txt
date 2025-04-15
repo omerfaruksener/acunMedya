@@ -1,0 +1,38 @@
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.exe
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.deps.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.runtimeconfig.json
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization___Deserialization.Form1.resources
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.AssemblyInfo.cs
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\refint\Serialization & Deserialization.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.pdb
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.genruntimeconfig.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\ref\Serialization & Deserialization.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\AcunMedyaEğitim\Ödev\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serializ.6F21BF48.Up2Date
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.exe
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.deps.json
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.runtimeconfig.json
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.dll
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Serialization & Deserialization.pdb
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization___Deserialization.Form1.resources
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serializ.6F21BF48.Up2Date
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.dll
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\refint\Serialization & Deserialization.dll
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.pdb
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\Serialization & Deserialization.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Serialization & Deserialization\Serialization & Deserialization\obj\Debug\net8.0-windows\ref\Serialization & Deserialization.dll

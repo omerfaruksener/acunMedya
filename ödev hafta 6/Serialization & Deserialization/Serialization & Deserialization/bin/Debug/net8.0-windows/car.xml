@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <marka>Audi</marka>
+  <model>A4</model>
+  <fiyat>358744454</fiyat>
+</Car>
