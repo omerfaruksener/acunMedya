@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\bin\Debug\net8.0-windows\OdemeYontemleri.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\bin\Debug\net8.0-windows\OdemeYontemleri.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\bin\Debug\net8.0-windows\OdemeYontemleri.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\bin\Debug\net8.0-windows\OdemeYontemleri.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\bin\Debug\net8.0-windows\OdemeYontemleri.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.Form1.resources
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\refint\OdemeYontemleri.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\OdemeYontemleri.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\OdemeYontemleri\OdemeYontemleri\obj\Debug\net8.0-windows\ref\OdemeYontemleri.dll
