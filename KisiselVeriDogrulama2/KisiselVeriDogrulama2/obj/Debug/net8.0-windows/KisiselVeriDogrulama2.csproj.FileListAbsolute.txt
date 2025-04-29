@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.Form1.resources
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\bin\Debug\net8.0-windows\KisiselVeriDogrulama2.exe
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\bin\Debug\net8.0-windows\KisiselVeriDogrulama2.deps.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\bin\Debug\net8.0-windows\KisiselVeriDogrulama2.runtimeconfig.json
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\bin\Debug\net8.0-windows\KisiselVeriDogrulama2.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\bin\Debug\net8.0-windows\KisiselVeriDogrulama2.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\refint\KisiselVeriDogrulama2.dll
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.pdb
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\KisiselVeriDogrulama2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AcunMedyaAkademi\KisiselVeriDogrulama2\KisiselVeriDogrulama2\obj\Debug\net8.0-windows\ref\KisiselVeriDogrulama2.dll
