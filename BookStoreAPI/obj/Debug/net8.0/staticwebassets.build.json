@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "EdE451ekav53txnbxW9pXZE0GGaire/4vljce1aeDps=",
+  "Source": "BookStoreAPI",
+  "BasePath": "_content/BookStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStoreAPI\\wwwroot",
+      "Source": "BookStoreAPI",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreAPI\\wwwroot\\",
+      "BasePath": "_content/BookStoreAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+C:\Users\ASUS\Downloads\bookstore_dotnet8_fixed_v8 (1)\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\bookstore_dotnet8_fixed_v8 (1)\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\bookstore_dotnet8_fixed_v8 (1)\BookStoreAPI\obj\Debug\net8.0\staticwebassets.build.json

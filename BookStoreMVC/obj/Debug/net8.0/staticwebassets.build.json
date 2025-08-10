@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "Hash": "12DQbHlRH3l/YcscBK64jhXTOlhqvHjsTC08NBiKbLE=",
+  "Source": "BookStoreMVC",
+  "BasePath": "_content/BookStoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreAPI\\BookStoreAPI.csproj",
+      "Version": 2,
+      "Source": "BookStoreAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookStoreAPI\\wwwroot",
+      "Source": "BookStoreAPI",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreAPI\\wwwroot\\",
+      "BasePath": "_content/BookStoreAPI",
+      "Pattern": "**"
+    },
+    {
+      "Name": "BookStoreMVC\\wwwroot",
+      "Source": "BookStoreMVC",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreMVC\\wwwroot\\",
+      "BasePath": "_content/BookStoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreMVC\\wwwroot\\css\\site.css",
+      "SourceId": "BookStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreMVC\\wwwroot\\",
+      "BasePath": "_content/BookStoreMVC",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7hf0iv4pli",
+      "Integrity": "W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.7hf0iv4pli.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 12:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7hf0iv4pli"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\ASUS\\Downloads\\bookstore_dotnet8_fixed_v8 (1)\\BookStoreMVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 12:55:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU="
+        }
+      ]
+    }
+  ]
+}

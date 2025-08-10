@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BookStoreMVC/css/site.7hf0iv4pli.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7hf0iv4pli"},{"Name":"integrity","Value":"sha256-W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU="},{"Name":"label","Value":"_content/BookStoreMVC/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 12:55:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookStoreMVC/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022W/wky60V4c5L863xXI2//9vcZ6UrdOHmwKvu0oq6KSU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 12:55:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+@model BookStoreAPI.Models.Book
+@{ Layout = "~/Views/Shared/_Layout.cshtml"; }
+<h2>Kitap Düzenle</h2>
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" name="Id" value="@Model.Id" />
+<div class="mb-3">
+    <label class="form-label">Başlık</label>
+    <input name="Title" value="@Model.Title" class="form-control" />
+</div>
+<div class="mb-3">
+    <label class="form-label">Fiyat</label>
+    <input name="Price" value="@Model.Price" class="form-control" />
+</div>
+<div class="mb-3">
+    <label class="form-label">Kategori</label>
+    <select name="CategoryId" class="form-select">
+        @foreach(var c in ViewBag.Categories) { <option value="@c.Id" @(c.Id==Model.CategoryId? "selected":"")>@c.Name</option> }
+    </select>
+</div>
+<div class="mb-3">
+    <label class="form-label">Resim (yeni yükleyebilirsiniz)</label>
+    <input type="file" name="image" class="form-control" />
+    <br />
+    <img src="@Model.ImageUrl" style="height:120px;object-fit:cover;" />
+</div>
+<button class="btn btn-primary">Güncelle</button>
+</form>

@@ -1,0 +1,25 @@
+@model IEnumerable<BookStoreMVC.Models.BookDto>
+@{
+    ViewData["Title"] = "Kitaplar";
+    Layout = "_Layout";
+}
+<h2>Kitaplar</h2>
+<div class="row">
+@foreach(var b in Model) {
+    <div class="col-md-4 mb-3">
+        <div class="card">
+            <img src="@b.ImageUrl" class="card-img-top" style="height:200px; object-fit:cover" />
+            <div class="card-body">
+                <h5 class="card-title">@b.Title</h5>
+                <p class="card-text">Kategori: @b.Category?.Name</p>
+                <p class="card-text">Fiyat: @b.Price.ToString("C")</p>
+                <a class="btn btn-sm btn-primary" href="/Books/Details/@b.Id">Detay</a>
+                <form method="post" action="/Cart/Add" style="display:inline">
+                    <input type="hidden" name="bookId" value="@b.Id" />
+                    <button class="btn btn-sm btn-outline-success">Sepete Ekle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+</div>
